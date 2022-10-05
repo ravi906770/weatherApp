@@ -2,11 +2,10 @@
   "name": "expressweb",
   "version": "1.0.0",
   "description": "This is the Most Powerfull Weather Application created By Ravi Pankhaniya using Express",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node app.js",
-        "dev": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Ravi Pankhaniya",
   "license": "ISC",
